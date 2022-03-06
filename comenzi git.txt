@@ -1,0 +1,6 @@
+git init
+git add index.html
+git status
+git rm --cached index.html
+git add .     ( salveaza tot ce e modificat)
+git commit -m "first commit"
